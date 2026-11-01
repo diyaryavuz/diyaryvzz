@@ -1,3 +1,44 @@
+# Diyar Yavuz
+
+Building practical tools for content and campaign workflows, and contributing to open source through code, documentation and tests.
+
+[CampaignKit UTM](https://github.com/diyaryavuz/campaignkit-utm) · [X](https://x.com/diyaryav) · [LinkedIn](https://www.linkedin.com/in/diyaryavuz/)
+
+## Building in public
+
+### CampaignKit UTM
+
+A local-first workspace for consistent campaign links. Built with **React and TypeScript**, with an English/Turkish interface, bulk variants, a saved-link library, CSV export and JSON backups. No account or API key required.
+
+[Try the demo](https://diyaryavuz.github.io/campaignkit-utm/) · [v0.1.0 release](https://github.com/diyaryavuz/campaignkit-utm/releases/tag/v0.1.0) · [Contribute](https://github.com/diyaryavuz/campaignkit-utm/blob/main/CONTRIBUTING.md)
+
+**Join in:** help improve [English/Turkish UI copy](https://github.com/diyaryavuz/campaignkit-utm/issues/3), [keyboard accessibility](https://github.com/diyaryavuz/campaignkit-utm/issues/4), or [browser tests](https://github.com/diyaryavuz/campaignkit-utm/issues/5). Comment on an issue before starting. Focused fixes, documentation and feedback are welcome.
+
+## Open-source contributions
+
+Selected work, with links to the actual changes. Status checked **1 November 2026**.
+
+| Project | Contribution | Status |
+| --- | --- | --- |
+| OpenVenue | [Map controls documentation and Escape-key fix](https://github.com/Rachit7168/OpenVenue/pull/87) | Merged |
+| APIVouch | [Fix overlapping types in inferred response schemas](https://github.com/ShahadatTest/apivouch/pull/1) | Open PR |
+| OpenVenue | [Readable local update times on project cards](https://github.com/Rachit7168/OpenVenue/pull/103) | Open PR |
+
+<details>
+<summary>More contributions</summary>
+
+- [Canopychain: accessible lifecycle documentation and signing boundaries](https://github.com/Canopychain/canopychain-docs/pull/20) — open PR.
+- [Checkpoint Governor: probe intervals and detection latency](https://github.com/bolubo/checkpoint-governor/pull/127) — open PR.
+
+</details>
+
+## Let's collaborate
+
+Interested in useful small tools, clear documentation, accessibility or reliable data handling? Start a discussion in [CampaignKit issues](https://github.com/diyaryavuz/campaignkit-utm/issues), or connect on [X](https://x.com/diyaryav) and [LinkedIn](https://www.linkedin.com/in/diyaryavuz/). I share project updates in English.
+
+My background is in social media management. My current work connects that experience with **React, TypeScript, Python and practical automation**, using AI assistance with human review and explicit validation.
+
+<!-- Previous profile content retained here, hidden from the rendered profile.
 ![Masterhead](https://miro.medium.com/v2/resize:fit:1200/1*ufOmklYUrZPbVcBARvDjEw.png)
 <h1 align="center">Hi 👋, I'm Diyar</h1>
 <h3 align="center">Social Media Manager</h3>
@@ -23,3 +64,5 @@
 | [Calculator](https://github.com/diyaryavuz/modern-calculator) | JavaScript arithmetic, keyboard input and automated tests |
 
 Setup instructions and validation details are available in each repository.
+
+-->
