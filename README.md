@@ -36,7 +36,7 @@ Selected work, with links to the actual changes. Status checked **1 November 202
 
 Interested in useful small tools, clear documentation, accessibility or reliable data handling? Start a discussion in [CampaignKit issues](https://github.com/diyaryavuz/campaignkit-utm/issues), or connect on [X](https://x.com/diyaryav) and [LinkedIn](https://www.linkedin.com/in/diyaryavuz/). I share project updates in English.
 
-My background is in social media management. My current work connects that experience with **React, TypeScript, Python and practical automation**, using AI assistance with human review and explicit validation.
+My background is in social media management. My current work connects that experience with **React, TypeScript, Python and practical automation**, with a focus on useful tools, clear documentation and tested changes.
 
 <!-- Previous profile content retained here, hidden from the rendered profile.
 ![Masterhead](https://miro.medium.com/v2/resize:fit:1200/1*ufOmklYUrZPbVcBARvDjEw.png)
